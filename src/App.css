@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+    position: relative;
+  padding: 0.1em 0.5em;
+  background: -webkit-linear-gradient(to right, rgb(255, 186, 115), transparent);
+  background: linear-gradient(to right, rgb(255, 186, 115), transparent);
+  color: #ffffff;
+    
+}
+
+.Button {
+    
+}
+    
+
+
+body  {
+    background: #000000;
+}
+
